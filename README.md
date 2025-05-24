@@ -9,9 +9,9 @@ My personal Linux dotfiles, optimized for terminal-heavy workflows, clean shell 
 - Neovim config (Lua)
 - Modular aliases, functions, and environment variables
 - Safe secrets structure (excluded from Git)
-
+ 
 ## 📁 Directory Structure
-
+ 
 ~/env/
 ├── bashrc
 ├── bash_profile
@@ -39,11 +39,11 @@ My personal Linux dotfiles, optimized for terminal-heavy workflows, clean shell 
    ```
 3. Customize `secrets/`, `aliases.sh`, or host-specific logic under `machine/`
 
-🔒 Secrets
-~/env/secrets/ is excluded via .gitignore and contains:
+## 🔒 Secrets
 
-*.env files
+`~/env/secrets/` is excluded via .gitignore and contains:
 
+- `*.env` files
 - API keys
 - Machine-specific tokens
 - Do not commit this folder.
