@@ -11,7 +11,8 @@ My personal Linux dotfiles, optimized for terminal-heavy workflows, clean shell 
 - Safe secrets structure (excluded from Git)
  
 ## 📁 Directory Structure
- 
+
+```bash
 ~/env/
 ├── bashrc
 ├── bash_profile
@@ -24,7 +25,7 @@ My personal Linux dotfiles, optimized for terminal-heavy workflows, clean shell 
 ├── link.sh
 ├── gitconfig
 └── secrets/ # (excluded from Git)
-
+```
 
 ## 🚀 Usage
 
