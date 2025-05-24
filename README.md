@@ -1,4 +1,4 @@
-# 🛠 Tom Lutkus – Dotfiles
+# 🛠 Thomas Lutkus – Dotfiles
 
 My personal Linux dotfiles, optimized for terminal-heavy workflows, clean shell environments, and minimal distractions. Managed under `~/env`, symlinked to `$HOME`.
 
