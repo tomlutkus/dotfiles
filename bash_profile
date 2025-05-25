@@ -11,3 +11,6 @@ export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 # Auto-load SSH key if available
 ssh-add ~/.ssh/zenith_ed25519 2>/dev/null
 ssh-add ~/.ssh/ms-dev-012_ed25519 2>/dev/null
+
+# Created by `pipx` on 2025-05-25 16:40:32
+export PATH="$PATH:/home/tom/.local/bin"

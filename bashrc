@@ -30,3 +30,6 @@ ENV_DIR="$HOME/env"
 # ───── Completions ───────────────────────────
 [[ -x /usr/bin/terraform ]] && complete -C /usr/bin/terraform terraform
 
+
+# Created by `pipx` on 2025-05-25 16:40:32
+export PATH="$PATH:/home/tom/.local/bin"
