@@ -25,6 +25,7 @@ ENV_DIR="$HOME/env"
 
 [[ -f "$ENV_DIR/aliases.sh"    ]] && source "$ENV_DIR/aliases.sh"
 [[ -f "$ENV_DIR/functions.sh"  ]] && source "$ENV_DIR/functions.sh"
+[[ -f "$ENV_DIR/medserv.sh"    ]] && source "$ENV_DIR/medserv.sh"
 [[ -f "$ENV_DIR/machine/$(hostname).sh" ]] && source "$ENV_DIR/machine/$(hostname).sh"
 
 # ───── Completions ───────────────────────────
