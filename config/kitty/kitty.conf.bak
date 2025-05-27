@@ -2,7 +2,7 @@
 # ─────────────────────────────
 # Font
 # font_family MesloLGL Nerd Font Mono Regular
-font_size 17.0
+font_size 16.0
 
 # Scrollback
 scrollback_lines 9999
@@ -21,6 +21,6 @@ map ctrl+shift+down launch --location=hsplit
 
 
 # BEGIN_KITTY_THEME
-# Ayu
+# Sourcerer
 include current-theme.conf
 # END_KITTY_THEME

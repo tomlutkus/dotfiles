@@ -32,4 +32,4 @@ ENV_DIR="$HOME/env"
 
 
 # Created by `pipx` on 2025-05-25 16:40:32
-export PATH="$PATH:/home/tom/.local/bin"
+# export PATH="$PATH:/home/tom/.local/bin"
