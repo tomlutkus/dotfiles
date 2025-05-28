@@ -3,3 +3,5 @@
 [user]
 	email = 14177599+tomlutkus@users.noreply.github.com
 	name = Thomas Lutkus
+[core]
+	editor = nvim
