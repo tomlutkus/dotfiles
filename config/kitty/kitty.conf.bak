@@ -21,6 +21,6 @@ map ctrl+shift+down launch --location=hsplit
 
 
 # BEGIN_KITTY_THEME
-# Sourcerer
+# Bliss
 include current-theme.conf
 # END_KITTY_THEME
