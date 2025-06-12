@@ -46,3 +46,6 @@ alias vaultsync='cd ~/obsidian && git add . && git commit -m "$(date "+%Y-%m-%d 
 # Shell sync
 alias shellsync='cd ~/env && git add . && git commit -m "$(date "+%Y-%m0%d %H:%M") auto sync" && git push'
 alias wgup='sudo wg-quick up ~/.config/wireguard/zenith-CH-822.conf'
+
+# Proxmox
+alias pve='ssh -i .ssh/zenith_ed25519 tom@10.0.0.254'
